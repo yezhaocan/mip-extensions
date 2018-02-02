@@ -1,0 +1,10 @@
+{
+    "name": "mip-wine-world.com",
+    "version": "1.0.0",
+    "author": {
+        "name": "wine-world.com",
+    },
+    "engines": {
+        "mip": ">=1.1.0"
+    }
+}
