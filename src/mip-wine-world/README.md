@@ -1,12 +1,12 @@
-﻿# mip-wine-world.com
+﻿# mip-wine-world
 
-红酒世界 插件
+红酒世界 组件
 
 描述|红酒世界mip自定义功能
 ----|----
 类型|事件
 支持布局| N/S
-所需脚本| https://c.mipcdn.com/static/v1/mip-weiyoubaba-tthead/mip-mip-wine-world.com.js
+所需脚本| https://c.mipcdn.com/static/v1/mip-wine-world/mip-wine-world.js
 
 ## 示例
 
