@@ -9,11 +9,11 @@
 所需脚本| https://c.mipcdn.com/static/v1/mip-wine-world/mip-wine-world.js
 
 ## 示例
-只需要一个<mip-wine-world>标签
+只需要一个`mip-wine-world标签即可`，无须其他填充dom
 ## 单击展开更多
 
 ```
-<mip-wine-world.com>
-</mip-wine-world.com>
+<mip-wine-world>
+</mip-wine-world>
 
 ```
