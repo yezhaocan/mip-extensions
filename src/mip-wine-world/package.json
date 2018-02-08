@@ -1,8 +1,9 @@
 {
-    "name": "mip-wine-world.com",
+    "name": "mip-wine-world",
     "version": "1.0.0",
+    "description": "红酒世界自定义mip组件",
     "author": {
-        "name": "wine-world.com",
+        "name": "mip.wine-world.com"
     },
     "engines": {
         "mip": ">=1.1.0"
