@@ -9,7 +9,7 @@
 所需脚本| https://c.mipcdn.com/static/v1/mip-wine-world/mip-wine-world.js
 
 ## 示例
-
+只需要一个<mip-wine-world>标签
 ## 单击展开更多
 
 ```
